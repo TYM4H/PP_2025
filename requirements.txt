@@ -1,0 +1,5 @@
+aiogram
+psycopg2
+llama_cpp
+sqlparse
+asyncio
